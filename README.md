@@ -57,3 +57,7 @@ npm run dev
 Use the above endpoints in Thunder Client or Postman with JSON body payloads.
 
 Example request bodies are included in the repository documentation.
+
+# AI_Blog_Nest_API
+AI-powered blog management REST API built using Node.js, Express.js, MongoDB and Gemini AI.
+
