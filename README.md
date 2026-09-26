@@ -297,13 +297,13 @@ Make sure the following are installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone https://github.com/KeerthanaCK379/AI_Blog_Nest_API.git
 ```
 
 ### 2. Open the Project Folder
 
 ```bash
-cd ai-blognest-api
+cd AI_Blog_Nest_API
 ```
 
 ### 3. Install Dependencies
